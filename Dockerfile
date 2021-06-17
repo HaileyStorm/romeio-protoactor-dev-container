@@ -1,3 +1,5 @@
+#Built starting with golang dockerfile: https://github.com/docker-library/golang/blob/b879b60a7d94128c8fb5aea763cf31772495511d/1.16/buster/Dockerfile
+
 FROM buildpack-deps:buster-scm
 
 # gcc for cgo
